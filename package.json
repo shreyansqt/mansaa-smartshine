@@ -15,7 +15,8 @@
   "author": "Shreyas Ubale <shreyasubale@gmail.com> (http://www.devmire.com)",
   "license": "ISC",
   "dependencies": {
-    "noble": "^1.7.0",
+    "@abandonware/noble": "^1.9.2-8",
+    "noble": "^1.9.1",
     "noble-device": "^1.4.1",
     "node-cleanup": "^2.1.2",
     "underscore": "^1.8.3",
